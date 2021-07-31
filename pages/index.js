@@ -15,6 +15,7 @@ export default function Home() {
             Next.js!
           </a>
         </h1>
+        <h1 className="font-black font-subheader text-3xl">hey, I’m</h1>
 
         <p className="mt-3 text-2xl">
           Get started by editing{' '}

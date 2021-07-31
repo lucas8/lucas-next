@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Goldplay';
+  font-stretch: 25% 150%;
+  font-weight: 100 1000;
+  src: url('/static/fonts/Goldplay/GoldplayBlack.otf')
+    format('truetype-variations');
+  font-weight: black;
+}
