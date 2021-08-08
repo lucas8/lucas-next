@@ -4,7 +4,7 @@ export default function Link({ children, ...rest }) {
       className="font-mono text-transparent bg-clip-text cursor-pointer font-medium object-cover"
       style={{
         backgroundImage:
-          'linear-gradient(90deg, #00C2F7 44.27%, #B743E2 71.35%, #FE0254 100%)',
+          'linear-gradient(90deg, #00C2F7 0%, #B743E2 50%, #FE0254 100%)',
       }}
       {...rest}
     >
