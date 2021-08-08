@@ -6,3 +6,10 @@
     format('truetype-variations');
   font-weight: black;
 }
+
+@font-face {
+  font-family: 'iA Quattro';
+  font-stretch: 25% 150%;
+  font-weight: 100 1000;
+  src: url('/static/fonts/iAWriterMonoV.ttf') format('truetype-variations');
+}
